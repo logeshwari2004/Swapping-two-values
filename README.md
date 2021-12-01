@@ -20,7 +20,7 @@ End the program
 ## PROGRAM:
 ```
 #Program to swap two values.
-#Developed by: logeshwai
+#Developed by: logeshwari
 #RegisterNumber:21500746
 a=(int(input()))
 b=(int(input()))
